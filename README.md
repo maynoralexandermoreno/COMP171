@@ -4,7 +4,8 @@ Brookdale Community College, Spring 2017, COMP 171-Intro To Java
 Hello, 
 
 These are all labs using Indroduction to Java Programming, 10th edition, by Y. Daniel Lang. 
-The questions, along with some hints, are included in the comments before the solution program. 
+The questions, along with some hints, are included in the comments before the solution program.
+Labs are located in the src folder
 
 SUGGESTIONS: 
 Do yourself a solid and read the textbook. It is well written and comprehensive. If you have an error and cannot contact your instructor, the textbook probably has the solution in the corresponding chapter(s).
