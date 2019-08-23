@@ -7,6 +7,8 @@ These are all labs using Indroduction to Java Programming, 10th edition, by Y. D
 The questions, along with some hints, are included in the comments before the solution program.
 Labs are located in the src folder.
 
+This semester covers chapters 1 - 9.
+
 SUGGESTIONS: 
 Do yourself a solid and read the textbook. It is well written and comprehensive. If you have an error and cannot contact your instructor, the textbook probably has the solution in the corresponding chapter(s).
 Do your best to understand what the basic rules are. Understanding the rules fully will help you write code quickly when time is a constraint.
