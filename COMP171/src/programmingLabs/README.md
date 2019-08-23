@@ -1,4 +1,4 @@
-The correspondin lab names to each lab number.
+The corresponding lab names to each lab number.
 
 LAB 01:   TIPS
 LAB 02:   CONSOLE INPUT
